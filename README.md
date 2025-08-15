@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Stefano Podestà 👋
+
+IT Network Specialist | Focused on IT & OT Security | RF & OSINT Enthusiast
 
 <!--
 **stevepode/stevepode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
