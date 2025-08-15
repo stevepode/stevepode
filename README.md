@@ -19,8 +19,11 @@ IT Network Specialist | Focused on IT & OT Security | RF & OSINT Enthusiast
 ---
 
 
-## 📫 Contact Me
-[LinkedIn](https://www.linkedin.com/in/stefanopodest/)
+## 📫 Connect with me
+
+<a href="https://www.linkedin.com/in/stefanopodest/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 <!--
 **stevepode/stevepode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
